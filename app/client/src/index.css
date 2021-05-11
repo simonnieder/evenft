@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+
+.outlined-button{
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.top{
+  z-index: 999999999;
+}
+.padding-y{
+  @apply py-5 md:py-10 lg:py-20;
+}
+.side-padding{
+  @apply px-5 md:px-10 lg:px-20;
+}
+
+.header{
+  @apply text-neutrals-100 text-4xl md:text-5xl font-header text-neutrals-100 font-semibold;
+}
+
+.btn{
+  @apply text-neutrals-600 border-neutrals-600 !important;
+}
+
+
+.bg-curve{
+  background: url('./curve.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+}
+
+.navbar-link-active{
+  @apply text-neutrals-300;
+}
+
+.inputfile {
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}

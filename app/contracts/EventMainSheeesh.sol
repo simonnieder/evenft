@@ -1,0 +1,151 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+
+contract EventMainSheeeeeeeeeeeeeesh is ERC721{
+    constructor() ERC721("Event", "EVT"){
+    }
+
+    Ticket[] public tickets;
+    Event[] public events;
+    
+    struct Ticket{
+        uint evtId;
+        uint number;
+        address payable owner;
+        uint256 price;
+        bool forSale;
+    }
+
+    struct Event{
+        string title;
+        string description;
+        address payable creator;
+        uint amount;
+        uint remainingAmount;
+        uint256 price;
+    }
+
+
+    function createEvent(string memory _title, string memory _description, uint _amount, uint256 _price) public {
+        Event memory evt = Event(_title, _description, payable(msg.sender), _amount, _amount, _price);
+        events.push(evt);   
+    }
+
+    //returns all Events, NOT Tickets
+    function getEvents() public view returns (Event[] memory _event){
+        Event[] memory allEvents = events;
+        return allEvents;
+    }
+
+        //returns all Events, NOT Tickets
+    function getEvent(uint _evtId) public view returns (Event memory){
+        Event memory evt = events[_evtId];
+        return evt;
+    }
+
+    //returns all minted Tickets
+    function getTickets() public view returns (Ticket[] memory ticket){
+        Ticket[] memory allTickets = tickets;
+        return allTickets;
+    }
+
+    //returns all minted Tickets for sale
+    function getTicketsForSale() public view returns (Ticket[] memory ticket){
+        //memory doesn't allow dynamic arrays, so this is the best we can do :(
+        Ticket[] memory ticketsForSale = new Ticket[](tickets.length);
+        uint count = 0;
+        for (uint i=0; i<tickets.length; i++) {
+            if(tickets[i].forSale == true){
+                ticketsForSale[i] = tickets[i];    
+                ++count;
+            }
+        }
+
+        //solidity does not allow dynamic arrays in memory. Because of this we need to remove the empty indexes
+        Ticket[] memory trimmedTickets = new Ticket[](count);
+        for (uint i=0; i<count; i++) {
+            trimmedTickets[i] = ticketsForSale[i];
+        }
+
+        return trimmedTickets;
+    }
+
+    //returns all Tickets the sender owns
+    function getMyTickets() public view returns (Ticket[] memory ticket){
+        Ticket[] memory ticketsFrom = new Ticket[](tickets.length);
+        address payable sender = payable(msg.sender);
+        uint count = 0;
+        for (uint i=0; i<tickets.length; i++) {
+            if(tickets[i].owner == sender){
+                ticketsFrom[i] = tickets[i];    
+                ++count;
+            }
+        }
+        
+        //solidity does not allow dynamic arrays in memory. Because of this we need to remove the empty indexes
+        Ticket[] memory trimmedTickets = new Ticket[](count);
+        for (uint i=0; i<count; i++) {
+            trimmedTickets[i] = ticketsFrom[i];
+        }
+
+        return trimmedTickets;
+    }
+
+    //purchase a Ticket that matches with Event-ID
+    function buyTicket(uint evtId) public payable{
+        require(evtId < events.length && evtId >= 0);
+        
+        Event storage evt = events[evtId];
+        require(msg.value >= evt.price);
+        require(evt.remainingAmount > 0);
+
+        evt.remainingAmount -= 1;
+        uint ticketNumber = evt.amount - evt.remainingAmount;
+
+        tickets.push(Ticket(evtId, ticketNumber, payable(msg.sender), 0, false));
+        uint ticketId = tickets.length-1;
+
+        //mint Ticket to buyers address
+        _safeMint(msg.sender, ticketId);
+        //send the creator the transmitted money
+        evt.creator.transfer(msg.value);
+    }
+    
+    function buyTicketFromMarket(uint ticketId) public payable{
+        require(ticketId < tickets.length && ticketId >= 0);
+
+        Ticket storage ticket = tickets[ticketId];
+
+        // require(ticket.forSale==true);
+        require(msg.value >= ticket.price);
+
+        Event memory evt = events[tickets[ticketId].evtId];
+        uint creatorFee = msg.value / 10;
+        evt.creator.transfer(creatorFee);
+        ticket.owner.transfer(msg.value);
+        _transfer(ticket.owner, msg.sender, ticketId);
+        ticket.owner=payable(msg.sender);
+    }
+
+
+    //put ticket up for sale
+    function startSellingTicket(uint _ticketId, uint _price) public{
+        require(_ticketId < tickets.length && _ticketId >= 0);
+        require(tickets[_ticketId].owner == msg.sender);
+        Ticket storage ticket = tickets[_ticketId];
+        ticket.forSale = true;
+        ticket.price = _price;
+    }
+
+    //put ticket down from sale
+    function stopSellingTicket(uint _ticketId) public{
+        require(_ticketId < tickets.length && _ticketId >= 0);
+        require(tickets[_ticketId].owner == msg.sender);
+        Ticket storage ticket = tickets[_ticketId];
+        ticket.forSale = false;
+        ticket.price = 0;
+    }
+
+}

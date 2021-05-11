@@ -1,0 +1,519 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="593.958" height="690.995" viewBox="0 0 593.958 690.995">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.144" y1="0.288" x2="1.547" y2="0.844" gradientUnits="objectBoundingBox">
+      <stop offset="0.004" stop-color="#3766fc"/>
+      <stop offset="0.32" stop-color="#5547e4"/>
+      <stop offset="0.765" stop-color="#7a22c7"/>
+      <stop offset="1" stop-color="#8914bc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.407" y1="0.36" x2="1.201" y2="1.556" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1.715" y1="0.276" x2="-0.875" y2="0.753" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.043" y1="0.351" x2="1.486" y2="0.824" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22148d"/>
+      <stop offset="1" stop-color="#1c0d50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.924" y1="0.971" x2="0.118" y2="0.075" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-6" x1="3.006" y1="0.04" x2="-0.423" y2="0.67" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-7" x1="0.936" y1="0.937" x2="0.263" y2="0.264" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-8" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4872ff"/>
+      <stop offset="0.848" stop-color="#394cf6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="-4.421" y1="9.403" x2="-5.346" y2="9.299" gradientUnits="objectBoundingBox">
+      <stop offset="0.004" stop-color="#48caff"/>
+      <stop offset="0.064" stop-color="#46c1ff"/>
+      <stop offset="0.505" stop-color="#3884ff"/>
+      <stop offset="0.829" stop-color="#305fff"/>
+      <stop offset="1" stop-color="#2d51ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="-5.658" y1="8.42" x2="-4.441" y2="9.023" gradientUnits="objectBoundingBox">
+      <stop offset="0.004" stop-color="#48caff"/>
+      <stop offset="0.25" stop-color="#3fa4ff"/>
+      <stop offset="0.587" stop-color="#3577ff"/>
+      <stop offset="0.849" stop-color="#2f5bff"/>
+      <stop offset="1" stop-color="#2d51ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="11.295" y1="0.567" x2="-0.609" y2="0.493" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-20" x1="-3.32" y1="0.383" x2="8.707" y2="0.752" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-21" x1="0.043" y1="0.351" x2="1.486" y2="0.824" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-22" x1="0.924" y1="0.971" x2="0.118" y2="0.075" gradientUnits="objectBoundingBox">
+      <stop offset="0.004" stop-color="#48caff"/>
+      <stop offset="1" stop-color="#c3f3ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-23" x1="3.006" y1="0.04" x2="-0.423" y2="0.67" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-24" x1="0.936" y1="0.937" x2="0.263" y2="0.264" xlink:href="#linear-gradient-22"/>
+    <linearGradient id="linear-gradient-25" x1="0.045" y1="0.35" x2="1.737" y2="0.906" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-27" x1="3.001" y1="0.039" x2="-0.422" y2="0.67" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-28" x1="0.485" y1="0.805" x2="0.51" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#56abff"/>
+      <stop offset="0.09" stop-color="#52b2ff"/>
+      <stop offset="0.344" stop-color="#4ac3ff"/>
+      <stop offset="0.533" stop-color="#48caff"/>
+      <stop offset="1" stop-color="#cff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-29" x1="1.276" y1="-38.42" x2="0.097" y2="20.737" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#48caff"/>
+      <stop offset="1" stop-color="#cff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-30" x1="-9.87" y1="-8.158" x2="-7.83" y2="-7.024" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-31" x1="0.964" y1="-4.799" x2="5.032" y2="-4.042" gradientUnits="objectBoundingBox">
+      <stop offset="0.004" stop-color="#48caff"/>
+      <stop offset="0.178" stop-color="#42afff"/>
+      <stop offset="0.467" stop-color="#3987ff"/>
+      <stop offset="0.591" stop-color="#3577ff"/>
+      <stop offset="0.85" stop-color="#2f5bff"/>
+      <stop offset="1" stop-color="#2d51ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-32" x1="12.392" y1="0.56" x2="-0.722" y2="0.494" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-33" x1="-1.969" y1="0.439" x2="12.276" y2="0.792" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-34" x1="-4.802" y1="6.612" x2="-5.96" y2="6.481" xlink:href="#linear-gradient-9"/>
+    <linearGradient id="linear-gradient-35" x1="-6.456" y1="5.507" x2="-5.102" y2="6.131" xlink:href="#linear-gradient-10"/>
+  </defs>
+  <g id="Isometric_objects" data-name="Isometric objects" transform="translate(-203.023 -96.496)">
+    <g id="Gruppe_105" data-name="Gruppe 105">
+      <g id="Gruppe_20" data-name="Gruppe 20">
+        <g id="Gruppe_19" data-name="Gruppe 19">
+          <g id="Gruppe_2" data-name="Gruppe 2">
+            <g id="Gruppe_1" data-name="Gruppe 1" opacity="0.79">
+              <path id="Pfad_1" data-name="Pfad 1" d="M706.961,426.014V323.1l-89.255-51.532-.76.326V373.735l.592,1.025,88.775,51.254Z" fill="url(#linear-gradient)"/>
+              <path id="Pfad_2" data-name="Pfad 2" d="M796.362,271.191l.108.2-89.363,51.744-89.517-51.36.046-1.01,88.878-51.314H707.7l88.625,51.293Z" fill="url(#linear-gradient-2)"/>
+              <path id="Pfad_3" data-name="Pfad 3" d="M706.961,323.1V426.014h.649l88.775-51.254.592-1.025V271.884l-.342-.4-.135-.086Z" fill="url(#linear-gradient-3)"/>
+            </g>
+          </g>
+          <g id="Gruppe_4" data-name="Gruppe 4" opacity="0.7">
+            <g id="Gruppe_3" data-name="Gruppe 3">
+              <path id="Pfad_4" data-name="Pfad 4" d="M707.518,407.387V323.031L634.36,280.794l-.623-.2v83.941l.485.84,72.764,42.01Z" fill="url(#linear-gradient-4)"/>
+              <path id="Pfad_5" data-name="Pfad 5" d="M780.794,280.487l.088.167-73.246,42.412-73.372-42.1.038-.828,72.848-42.059h.971l72.641,42.042Z" fill="url(#linear-gradient-5)"/>
+              <path id="Pfad_6" data-name="Pfad 6" d="M707.518,323.031v84.356h.532l72.764-42.01.485-.84v-84.1l-.257.02-.134.205Z" fill="url(#linear-gradient-6)"/>
+            </g>
+            <path id="Pfad_7" data-name="Pfad 7" d="M707.637,238.557l72.345,41.877-72.346,41.877-72.757-41.744Zm0-.755L633.79,280.441a.148.148,0,0,0-.074.128.145.145,0,0,0,.074.127l73.847,42.37,73.651-42.632Z" fill="url(#linear-gradient-7)"/>
+          </g>
+          <g id="Gruppe_17" data-name="Gruppe 17" style="mix-blend-mode: overlay;isolation: isolate">
+            <g id="Gruppe_8" data-name="Gruppe 8">
+              <g id="Gruppe_5" data-name="Gruppe 5">
+                <path id="Pfad_8" data-name="Pfad 8" d="M724.653,365.148l-5.68,3.279v-2.153l5.68-3.279Z" fill="#cff"/>
+                <path id="Pfad_9" data-name="Pfad 9" d="M733.251,360.184l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_10" data-name="Pfad 10" d="M740.859,355.792l-4.742,2.738v-2.153l4.742-2.738Z" fill="#cff"/>
+                <path id="Pfad_11" data-name="Pfad 11" d="M729.075,362.6l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_6" data-name="Gruppe 6">
+                <path id="Pfad_12" data-name="Pfad 12" d="M736.664,362.549l-3.2,1.85v-2.153l3.2-1.85Z" fill="#cff"/>
+                <path id="Pfad_13" data-name="Pfad 13" d="M722.985,370.446l-4.013,2.317V370.61l4.013-2.317Z" fill="#cff"/>
+                <path id="Pfad_14" data-name="Pfad 14" d="M731.323,365.632l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_15" data-name="Pfad 15" d="M727.147,368.043l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_7" data-name="Gruppe 7">
+                <path id="Pfad_16" data-name="Pfad 16" d="M741.667,364l-4.872,2.813v-2.153l4.872-2.813Z" fill="#cff"/>
+                <path id="Pfad_17" data-name="Pfad 17" d="M726.32,372.856l-7.348,4.242v-2.153l7.348-4.242Z" fill="#cff"/>
+                <path id="Pfad_18" data-name="Pfad 18" d="M734.658,368.042l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_19" data-name="Pfad 19" d="M730.482,370.453l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_12" data-name="Gruppe 12">
+              <g id="Gruppe_9" data-name="Gruppe 9">
+                <path id="Pfad_20" data-name="Pfad 20" d="M722.268,329.826l-3.277,1.892V329.5l3.277-1.892Z" fill="#cff"/>
+                <path id="Pfad_21" data-name="Pfad 21" d="M731.134,324.708l-1.934,1.117V323.6l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_22" data-name="Pfad 22" d="M740.7,319.186,734.089,323v-2.219l6.609-3.815Z" fill="#cff"/>
+                <path id="Pfad_23" data-name="Pfad 23" d="M726.828,327.193l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_10" data-name="Gruppe 10">
+                <path id="Pfad_24" data-name="Pfad 24" d="M739.811,324.168l-4.164,2.4v-2.219l4.164-2.4Z" fill="#cff"/>
+                <path id="Pfad_25" data-name="Pfad 25" d="M724.847,332.807l-5.856,3.381v-2.219l5.856-3.381Z" fill="#cff"/>
+                <path id="Pfad_26" data-name="Pfad 26" d="M733.444,327.844l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_27" data-name="Pfad 27" d="M729.138,330.329l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_11" data-name="Gruppe 11">
+                <path id="Pfad_28" data-name="Pfad 28" d="M743.249,326.652l-9.322,5.382v-2.22l9.322-5.382Z" fill="#cff"/>
+                <path id="Pfad_29" data-name="Pfad 29" d="M723.128,338.269l-4.137,2.389v-2.22l4.137-2.388Z" fill="#cff"/>
+                <path id="Pfad_30" data-name="Pfad 30" d="M731.725,333.306l-1.934,1.117V332.2l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_31" data-name="Pfad 31" d="M727.419,335.792l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_16" data-name="Gruppe 16">
+              <g id="Gruppe_13" data-name="Gruppe 13">
+                <path id="Pfad_32" data-name="Pfad 32" d="M723.894,346.863l-5,2.885v-2.22l5-2.885Z" fill="#cff"/>
+                <path id="Pfad_33" data-name="Pfad 33" d="M732.759,341.745l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_34" data-name="Pfad 34" d="M739.744,337.712l-4.03,2.327v-2.22l4.03-2.327Z" fill="#cff"/>
+                <path id="Pfad_35" data-name="Pfad 35" d="M728.453,344.231l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_14" data-name="Gruppe 14">
+                <path id="Pfad_36" data-name="Pfad 36" d="M744.875,339.22l-6.743,3.893v-2.219L744.875,337Z" fill="#cff"/>
+                <path id="Pfad_37" data-name="Pfad 37" d="M727.332,349.348l-8.435,4.87V352l8.435-4.87Z" fill="#cff"/>
+                <path id="Pfad_38" data-name="Pfad 38" d="M735.929,344.385l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_39" data-name="Pfad 39" d="M731.623,346.87l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_15" data-name="Gruppe 15">
+                <path id="Pfad_40" data-name="Pfad 40" d="M744.015,344.186l-7.6,4.389v-2.219l7.6-4.389Z" fill="#cff"/>
+                <path id="Pfad_41" data-name="Pfad 41" d="M725.613,354.81l-6.716,3.878v-2.22l6.716-3.878Z" fill="#cff"/>
+                <path id="Pfad_42" data-name="Pfad 42" d="M734.21,349.847l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_43" data-name="Pfad 43" d="M729.9,352.333l-1.934,1.117V351.23l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_18" data-name="Gruppe 18">
+            <path id="Pfad_44" data-name="Pfad 44" d="M707.615,426.014h-1.308V323.474l-89.349-51.586.678-1.119,89.979,51.95Z" fill="url(#linear-gradient-8)"/>
+          </g>
+          <rect id="Rechteck_2" data-name="Rechteck 2" width="103.562" height="1.308" transform="translate(706.631 322.524) rotate(-29.991)" fill="#394cf6"/>
+        </g>
+      </g>
+      <g id="Gruppe_21" data-name="Gruppe 21">
+        <path id="Pfad_45" data-name="Pfad 45" d="M658.008,338.932l6.605,3.794L552.742,407.647l-6.606-3.794Z" fill="url(#linear-gradient-9)"/>
+        <path id="Pfad_46" data-name="Pfad 46" d="M664.63,350.343l-.017-7.618L552.742,407.647l.017,7.618Z" fill="url(#linear-gradient-10)"/>
+      </g>
+      <g id="Gruppe_41" data-name="Gruppe 41">
+        <g id="Gruppe_40" data-name="Gruppe 40">
+          <g id="Gruppe_23" data-name="Gruppe 23">
+            <g id="Gruppe_22" data-name="Gruppe 22" opacity="0.79">
+              <path id="Pfad_47" data-name="Pfad 47" d="M508.714,787.491V684.574l-89.255-51.532-.76.326V735.212l.592,1.025,88.775,51.254Z" fill="url(#linear-gradient)"/>
+              <path id="Pfad_48" data-name="Pfad 48" d="M598.115,632.668l.108.2-89.363,51.744-89.517-51.36.046-1.01,88.878-51.314h1.185l88.625,51.293Z" fill="url(#linear-gradient-2)"/>
+              <path id="Pfad_49" data-name="Pfad 49" d="M508.714,684.574V787.491h.649l88.775-51.254.592-1.025V633.361l-.342-.4-.135-.086Z" fill="url(#linear-gradient-3)"/>
+            </g>
+          </g>
+          <g id="Gruppe_25" data-name="Gruppe 25" opacity="0.7">
+            <g id="Gruppe_24" data-name="Gruppe 24">
+              <path id="Pfad_50" data-name="Pfad 50" d="M509.27,768.864V684.508l-73.158-42.238-.623-.2v83.941l.485.84,72.764,42.01Z" fill="url(#linear-gradient-4)"/>
+              <path id="Pfad_51" data-name="Pfad 51" d="M582.547,641.964l.088.167L509.39,684.543l-73.372-42.1.038-.828L508.9,599.559h.971L582.516,641.6Z" fill="url(#linear-gradient-5)"/>
+              <path id="Pfad_52" data-name="Pfad 52" d="M509.271,684.508v84.356h.532l72.764-42.01.485-.84v-84.1l-.257.021-.134.205Z" fill="url(#linear-gradient-6)"/>
+            </g>
+            <path id="Pfad_53" data-name="Pfad 53" d="M509.389,600.034l72.346,41.877-72.347,41.877-72.756-41.743Zm0-.755-73.848,42.64a.147.147,0,0,0,0,.255l73.847,42.369,73.65-42.632Z" fill="url(#linear-gradient-7)"/>
+          </g>
+          <g id="Gruppe_38" data-name="Gruppe 38" style="mix-blend-mode: overlay;isolation: isolate">
+            <g id="Gruppe_29" data-name="Gruppe 29">
+              <g id="Gruppe_26" data-name="Gruppe 26">
+                <path id="Pfad_54" data-name="Pfad 54" d="M526.405,726.625l-5.68,3.279v-2.153l5.68-3.279Z" fill="#cff"/>
+                <path id="Pfad_55" data-name="Pfad 55" d="M535,721.661l-1.876,1.083v-2.153L535,719.509Z" fill="#cff"/>
+                <path id="Pfad_56" data-name="Pfad 56" d="M542.612,717.269l-4.742,2.738v-2.153l4.742-2.738Z" fill="#cff"/>
+                <path id="Pfad_57" data-name="Pfad 57" d="M530.828,724.072l-1.876,1.083V723l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_27" data-name="Gruppe 27">
+                <path id="Pfad_58" data-name="Pfad 58" d="M538.417,724.026l-3.2,1.85v-2.153l3.2-1.85Z" fill="#cff"/>
+                <path id="Pfad_59" data-name="Pfad 59" d="M524.738,731.923l-4.013,2.317v-2.153l4.013-2.317Z" fill="#cff"/>
+                <path id="Pfad_60" data-name="Pfad 60" d="M533.076,727.11l-1.876,1.083V726.04l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_61" data-name="Pfad 61" d="M528.9,729.521l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_28" data-name="Gruppe 28">
+                <path id="Pfad_62" data-name="Pfad 62" d="M543.419,725.473l-4.872,2.813v-2.153l4.872-2.813Z" fill="#cff"/>
+                <path id="Pfad_63" data-name="Pfad 63" d="M528.073,734.333l-7.347,4.242v-2.153l7.347-4.242Z" fill="#cff"/>
+                <path id="Pfad_64" data-name="Pfad 64" d="M536.411,729.519l-1.876,1.083V728.45l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_65" data-name="Pfad 65" d="M532.235,731.93l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_33" data-name="Gruppe 33">
+              <g id="Gruppe_30" data-name="Gruppe 30">
+                <path id="Pfad_66" data-name="Pfad 66" d="M524.021,691.3l-3.277,1.892v-2.219l3.277-1.892Z" fill="#cff"/>
+                <path id="Pfad_67" data-name="Pfad 67" d="M532.886,686.185l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_68" data-name="Pfad 68" d="M542.45,680.663l-6.609,3.815v-2.219l6.609-3.815Z" fill="#cff"/>
+                <path id="Pfad_69" data-name="Pfad 69" d="M528.581,688.671l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_31" data-name="Gruppe 31">
+                <path id="Pfad_70" data-name="Pfad 70" d="M541.563,685.645l-4.164,2.4v-2.219l4.164-2.4Z" fill="#cff"/>
+                <path id="Pfad_71" data-name="Pfad 71" d="M526.6,694.284l-5.856,3.381v-2.219l5.856-3.381Z" fill="#cff"/>
+                <path id="Pfad_72" data-name="Pfad 72" d="M535.2,689.321l-1.934,1.117v-2.219L535.2,687.1Z" fill="#cff"/>
+                <path id="Pfad_73" data-name="Pfad 73" d="M530.891,691.807l-1.934,1.117V690.7l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_32" data-name="Gruppe 32">
+                <path id="Pfad_74" data-name="Pfad 74" d="M545,688.129l-9.322,5.382v-2.22L545,685.91Z" fill="#cff"/>
+                <path id="Pfad_75" data-name="Pfad 75" d="M524.881,699.746l-4.137,2.388v-2.219l4.137-2.388Z" fill="#cff"/>
+                <path id="Pfad_76" data-name="Pfad 76" d="M533.477,694.783l-1.934,1.117V693.68l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_77" data-name="Pfad 77" d="M529.172,697.269l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_37" data-name="Gruppe 37">
+              <g id="Gruppe_34" data-name="Gruppe 34">
+                <path id="Pfad_78" data-name="Pfad 78" d="M525.646,708.34l-5,2.885v-2.219l5-2.885Z" fill="#cff"/>
+                <path id="Pfad_79" data-name="Pfad 79" d="M534.511,703.222l-1.934,1.117v-2.219L534.511,701Z" fill="#cff"/>
+                <path id="Pfad_80" data-name="Pfad 80" d="M541.5,699.19l-4.03,2.326V699.3l4.03-2.327Z" fill="#cff"/>
+                <path id="Pfad_81" data-name="Pfad 81" d="M530.206,705.708l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_35" data-name="Gruppe 35">
+                <path id="Pfad_82" data-name="Pfad 82" d="M546.627,700.7l-6.743,3.893V702.37l6.743-3.893Z" fill="#cff"/>
+                <path id="Pfad_83" data-name="Pfad 83" d="M529.085,710.825l-8.435,4.87v-2.22l8.435-4.87Z" fill="#cff"/>
+                <path id="Pfad_84" data-name="Pfad 84" d="M537.682,705.862l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_85" data-name="Pfad 85" d="M533.376,708.347l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_36" data-name="Gruppe 36">
+                <path id="Pfad_86" data-name="Pfad 86" d="M545.768,705.663l-7.6,4.389v-2.22l7.6-4.389Z" fill="#cff"/>
+                <path id="Pfad_87" data-name="Pfad 87" d="M527.366,716.287l-6.716,3.878v-2.22l6.716-3.878Z" fill="#cff"/>
+                <path id="Pfad_88" data-name="Pfad 88" d="M535.962,711.324l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_89" data-name="Pfad 89" d="M531.657,713.81l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_39" data-name="Gruppe 39">
+            <path id="Pfad_90" data-name="Pfad 90" d="M509.368,787.491H508.06V684.951l-89.349-51.586.678-1.119,89.979,51.95Z" fill="url(#linear-gradient-8)"/>
+          </g>
+          <rect id="Rechteck_3" data-name="Rechteck 3" width="103.562" height="1.308" transform="translate(508.383 684.001) rotate(-29.991)" fill="#394cf6"/>
+        </g>
+      </g>
+      <g id="Gruppe_42" data-name="Gruppe 42">
+        <path id="Pfad_91" data-name="Pfad 91" d="M512.745,635.789l-6.6,3.809V574.425l6.6-3.809Z" fill="url(#linear-gradient-19)"/>
+        <path id="Pfad_92" data-name="Pfad 92" d="M499.551,635.789l6.6,3.809V574.425l-6.6-3.809Z" fill="url(#linear-gradient-20)"/>
+      </g>
+      <g id="Gruppe_62" data-name="Gruppe 62">
+        <g id="Gruppe_61" data-name="Gruppe 61">
+          <g id="Gruppe_44" data-name="Gruppe 44">
+            <g id="Gruppe_43" data-name="Gruppe 43">
+              <path id="Pfad_93" data-name="Pfad 93" d="M506.173,573.849V442.019L391.844,376.011l-.974-.31V506.883l.758,1.313,113.714,65.653Z" fill="url(#linear-gradient-21)"/>
+              <path id="Pfad_94" data-name="Pfad 94" d="M620.689,375.532l.138.261L506.36,442.073,391.7,376.285l.059-1.294L505.6,309.263h1.518l113.521,65.7Z" fill="url(#linear-gradient-22)"/>
+              <path id="Pfad_95" data-name="Pfad 95" d="M506.173,442.019v131.83H507L620.718,508.2l.758-1.313V375.449l-.4.032-.209.321Z" fill="url(#linear-gradient-23)"/>
+            </g>
+            <path id="Pfad_96" data-name="Pfad 96" d="M506.359,310.005l113.06,65.444L506.358,440.894l-113.7-65.236Zm0-1.181L390.953,375.461a.226.226,0,0,0-.115.2.23.23,0,0,0,.115.2L506.36,442.073l115.1-66.624Z" fill="url(#linear-gradient-24)"/>
+          </g>
+          <g id="Gruppe_47" data-name="Gruppe 47">
+            <g id="Gruppe_45" data-name="Gruppe 45" opacity="0.79">
+              <path id="Pfad_97" data-name="Pfad 97" d="M506.037,602.959V442.121L366.551,361.589l-1.188.509V521.258l.925,1.6,138.736,80.1Z" fill="url(#linear-gradient-25)"/>
+              <path id="Pfad_98" data-name="Pfad 98" d="M645.751,361l.168.319L506.265,442.187l-139.9-80.264.072-1.578,138.9-80.192h1.852l138.5,80.16Z" fill="url(#linear-gradient-22)"/>
+              <path id="Pfad_99" data-name="Pfad 99" d="M506.038,442.121V602.959h1.014l138.736-80.1.925-1.6V362.087l-.534-.619-.211-.134Z" fill="url(#linear-gradient-27)"/>
+            </g>
+            <g id="Gruppe_46" data-name="Gruppe 46">
+              <path id="Pfad_100" data-name="Pfad 100" d="M507.059,602.959h-2.044V442.711L365.382,362.094l1.06-1.749,140.617,81.186Z" fill="url(#linear-gradient-28)"/>
+            </g>
+            <rect id="Rechteck_4" data-name="Rechteck 4" width="161.845" height="2.044" transform="translate(505.524 441.233) rotate(-29.996)" fill="url(#linear-gradient-29)"/>
+          </g>
+          <g id="Gruppe_60" data-name="Gruppe 60" style="mix-blend-mode: overlay;isolation: isolate">
+            <g id="Gruppe_51" data-name="Gruppe 51">
+              <g id="Gruppe_48" data-name="Gruppe 48">
+                <path id="Pfad_101" data-name="Pfad 101" d="M532.952,507.839l-8.877,5.125V509.6l8.877-5.125Z" fill="#cff"/>
+                <path id="Pfad_102" data-name="Pfad 102" d="M546.388,500.081l-2.932,1.693v-3.364l2.932-1.693Z" fill="#cff"/>
+                <path id="Pfad_103" data-name="Pfad 103" d="M558.278,493.216l-7.411,4.279v-3.364l7.411-4.279Z" fill="#cff"/>
+                <path id="Pfad_104" data-name="Pfad 104" d="M539.863,503.849l-2.932,1.693v-3.364l2.932-1.693Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_49" data-name="Gruppe 49">
+                <path id="Pfad_105" data-name="Pfad 105" d="M551.723,503.776l-5.008,2.891V503.3l5.008-2.892Z" fill="#cff"/>
+                <path id="Pfad_106" data-name="Pfad 106" d="M530.346,516.118l-6.271,3.62v-3.364l6.271-3.62Z" fill="#cff"/>
+                <path id="Pfad_107" data-name="Pfad 107" d="M543.375,508.6l-2.932,1.693v-3.364l2.932-1.693Z" fill="#cff"/>
+                <path id="Pfad_108" data-name="Pfad 108" d="M536.849,512.363l-2.932,1.693v-3.364L536.849,509Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_50" data-name="Gruppe 50">
+                <path id="Pfad_109" data-name="Pfad 109" d="M559.541,506.038l-7.614,4.4V507.07l7.614-4.4Z" fill="#cff"/>
+                <path id="Pfad_110" data-name="Pfad 110" d="M535.557,519.884l-11.482,6.63v-3.364l11.482-6.629Z" fill="#cff"/>
+                <path id="Pfad_111" data-name="Pfad 111" d="M548.587,512.361l-2.932,1.693V510.69L548.587,509Z" fill="#cff"/>
+                <path id="Pfad_112" data-name="Pfad 112" d="M542.061,516.129l-2.932,1.693v-3.364l2.932-1.693Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_55" data-name="Gruppe 55">
+              <g id="Gruppe_52" data-name="Gruppe 52">
+                <path id="Pfad_113" data-name="Pfad 113" d="M529.226,452.638l-5.122,2.957v-3.469l5.122-2.957Z" fill="#cff"/>
+                <path id="Pfad_114" data-name="Pfad 114" d="M543.08,444.639l-3.023,1.745v-3.469l3.023-1.745Z" fill="#cff"/>
+                <path id="Pfad_115" data-name="Pfad 115" d="M558.026,436.01,547.7,441.973V438.5l10.328-5.963Z" fill="#cff"/>
+                <path id="Pfad_116" data-name="Pfad 116" d="M536.351,448.524l-3.023,1.745V446.8l3.023-1.745Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_53" data-name="Gruppe 53">
+                <path id="Pfad_117" data-name="Pfad 117" d="M556.64,443.8l-6.507,3.757v-3.469l6.507-3.757Z" fill="#cff"/>
+                <path id="Pfad_118" data-name="Pfad 118" d="M533.256,457.3,524.1,462.58v-3.469l9.152-5.284Z" fill="#cff"/>
+                <path id="Pfad_119" data-name="Pfad 119" d="M546.69,449.54l-3.023,1.745v-3.469l3.023-1.745Z" fill="#cff"/>
+                <path id="Pfad_120" data-name="Pfad 120" d="M539.962,453.425l-3.023,1.745V451.7l3.023-1.745Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_54" data-name="Gruppe 54">
+                <path id="Pfad_121" data-name="Pfad 121" d="M562.014,447.678l-14.568,8.411V452.62l14.568-8.411Z" fill="#cff"/>
+                <path id="Pfad_122" data-name="Pfad 122" d="M530.569,465.833l-6.465,3.733V466.1l6.465-3.733Z" fill="#cff"/>
+                <path id="Pfad_123" data-name="Pfad 123" d="M544,458.076l-3.023,1.745v-3.469L544,454.608Z" fill="#cff"/>
+                <path id="Pfad_124" data-name="Pfad 124" d="M537.275,461.961l-3.023,1.745v-3.469l3.023-1.745Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_59" data-name="Gruppe 59">
+              <g id="Gruppe_56" data-name="Gruppe 56">
+                <path id="Pfad_125" data-name="Pfad 125" d="M531.765,479.263l-7.809,4.508V480.3l7.809-4.508Z" fill="#cff"/>
+                <path id="Pfad_126" data-name="Pfad 126" d="M545.62,471.265,542.6,473.01v-3.469l3.023-1.745Z" fill="#cff"/>
+                <path id="Pfad_127" data-name="Pfad 127" d="M556.535,464.963l-6.3,3.636V465.13l6.3-3.636Z" fill="#cff"/>
+                <path id="Pfad_128" data-name="Pfad 128" d="M538.891,475.149l-3.023,1.745v-3.469l3.023-1.745Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_57" data-name="Gruppe 57">
+                <path id="Pfad_129" data-name="Pfad 129" d="M564.554,467.318,554.016,473.4v-3.469l10.538-6.084Z" fill="#cff"/>
+                <path id="Pfad_130" data-name="Pfad 130" d="M537.139,483.146l-13.182,7.611v-3.469l13.182-7.611Z" fill="#cff"/>
+                <path id="Pfad_131" data-name="Pfad 131" d="M550.574,475.39l-3.023,1.745v-3.469l3.023-1.745Z" fill="#cff"/>
+                <path id="Pfad_132" data-name="Pfad 132" d="M543.845,479.275l-3.023,1.745v-3.469l3.023-1.745Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_58" data-name="Gruppe 58">
+                <path id="Pfad_133" data-name="Pfad 133" d="M563.21,475.079l-11.881,6.86V478.47l11.881-6.86Z" fill="#cff"/>
+                <path id="Pfad_134" data-name="Pfad 134" d="M534.452,491.683l-10.5,6.06v-3.469l10.5-6.06Z" fill="#cff"/>
+                <path id="Pfad_135" data-name="Pfad 135" d="M547.887,483.926l-3.023,1.745V482.2l3.023-1.745Z" fill="#cff"/>
+                <path id="Pfad_136" data-name="Pfad 136" d="M541.158,487.811l-3.023,1.745v-3.469l3.023-1.745Z" fill="#cff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Pfad_137" data-name="Pfad 137" d="M506.309,371.374l-15.477-8.935,15.38-8.88,15.477,8.935Z" fill="url(#linear-gradient-30)"/>
+      <path id="Pfad_138" data-name="Pfad 138" d="M435.091,493.565l-15.684-9.055v-18l15.684,9.055Z" fill="url(#linear-gradient-31)"/>
+      <g id="Gruppe_63" data-name="Gruppe 63">
+        <path id="Pfad_139" data-name="Pfad 139" d="M512.745,362.356l-6.6,3.809V284.478l6.6-3.809Z" fill="url(#linear-gradient-32)"/>
+        <path id="Pfad_140" data-name="Pfad 140" d="M499.551,362.356l6.6,3.809V284.478l-6.6-3.809Z" fill="url(#linear-gradient-33)"/>
+      </g>
+      <g id="Gruppe_64" data-name="Gruppe 64">
+        <path id="Pfad_141" data-name="Pfad 141" d="M424.471,474.588l6.605,3.794-63.717,36.787-6.605-3.794Z" fill="url(#linear-gradient-34)"/>
+        <path id="Pfad_142" data-name="Pfad 142" d="M431.093,486l-.017-7.618-63.717,36.787.017,7.618Z" fill="url(#linear-gradient-35)"/>
+      </g>
+      <g id="Gruppe_84" data-name="Gruppe 84">
+        <g id="Gruppe_83" data-name="Gruppe 83">
+          <g id="Gruppe_66" data-name="Gruppe 66">
+            <g id="Gruppe_65" data-name="Gruppe 65" opacity="0.79">
+              <path id="Pfad_143" data-name="Pfad 143" d="M506.148,303.055V200.137l-89.255-51.531-.76.326V250.775l.592,1.025L505.5,303.055Z" fill="url(#linear-gradient)"/>
+              <path id="Pfad_144" data-name="Pfad 144" d="M595.549,148.232l.108.2L506.294,200.18l-89.517-51.36.046-1.01L505.7,96.5h1.185l88.625,51.293Z" fill="url(#linear-gradient-2)"/>
+              <path id="Pfad_145" data-name="Pfad 145" d="M506.148,200.137V303.055h.649L595.572,251.8l.592-1.025V148.924l-.342-.4-.135-.086Z" fill="url(#linear-gradient-3)"/>
+            </g>
+          </g>
+          <g id="Gruppe_68" data-name="Gruppe 68" opacity="0.7">
+            <g id="Gruppe_67" data-name="Gruppe 67">
+              <path id="Pfad_146" data-name="Pfad 146" d="M506.7,284.428V200.072l-73.158-42.238-.623-.2v83.941l.485.84,72.764,42.01Z" fill="url(#linear-gradient-4)"/>
+              <path id="Pfad_147" data-name="Pfad 147" d="M579.982,157.528l.088.167-73.246,42.412-73.372-42.1.038-.828,72.848-42.059h.971l72.641,42.042Z" fill="url(#linear-gradient-5)"/>
+              <path id="Pfad_148" data-name="Pfad 148" d="M506.7,200.072v84.356h.532L580,242.418l.485-.84v-84.1l-.257.021-.134.205Z" fill="url(#linear-gradient-6)"/>
+            </g>
+            <path id="Pfad_149" data-name="Pfad 149" d="M506.824,115.6l72.345,41.877-72.346,41.877-72.757-41.744Zm0-.756-73.847,42.64a.147.147,0,0,0,0,.255l73.847,42.37,73.651-42.632Z" fill="url(#linear-gradient-7)"/>
+          </g>
+          <g id="Gruppe_81" data-name="Gruppe 81" style="mix-blend-mode: overlay;isolation: isolate">
+            <g id="Gruppe_72" data-name="Gruppe 72">
+              <g id="Gruppe_69" data-name="Gruppe 69">
+                <path id="Pfad_150" data-name="Pfad 150" d="M523.84,242.189l-5.68,3.279v-2.153l5.68-3.279Z" fill="#cff"/>
+                <path id="Pfad_151" data-name="Pfad 151" d="M532.438,237.225l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_152" data-name="Pfad 152" d="M540.046,232.832,535.3,235.57v-2.153l4.742-2.738Z" fill="#cff"/>
+                <path id="Pfad_153" data-name="Pfad 153" d="M528.262,239.636l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_70" data-name="Gruppe 70">
+                <path id="Pfad_154" data-name="Pfad 154" d="M535.851,239.589l-3.2,1.85v-2.153l3.2-1.85Z" fill="#cff"/>
+                <path id="Pfad_155" data-name="Pfad 155" d="M522.172,247.487,518.16,249.8v-2.153l4.012-2.317Z" fill="#cff"/>
+                <path id="Pfad_156" data-name="Pfad 156" d="M530.51,242.673l-1.876,1.083V241.6l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_157" data-name="Pfad 157" d="M526.334,245.084l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_71" data-name="Gruppe 71">
+                <path id="Pfad_158" data-name="Pfad 158" d="M540.854,241.036l-4.872,2.813V241.7l4.872-2.813Z" fill="#cff"/>
+                <path id="Pfad_159" data-name="Pfad 159" d="M525.507,249.9l-7.347,4.242v-2.153l7.347-4.242Z" fill="#cff"/>
+                <path id="Pfad_160" data-name="Pfad 160" d="M533.845,245.083l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_161" data-name="Pfad 161" d="M529.669,247.494l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_76" data-name="Gruppe 76">
+              <g id="Gruppe_73" data-name="Gruppe 73">
+                <path id="Pfad_162" data-name="Pfad 162" d="M521.456,206.867l-3.277,1.892v-2.219l3.277-1.892Z" fill="#cff"/>
+                <path id="Pfad_163" data-name="Pfad 163" d="M530.321,201.748l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_164" data-name="Pfad 164" d="M539.884,196.227l-6.609,3.815v-2.22l6.609-3.815Z" fill="#cff"/>
+                <path id="Pfad_165" data-name="Pfad 165" d="M526.015,204.234l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_74" data-name="Gruppe 74">
+                <path id="Pfad_166" data-name="Pfad 166" d="M539,201.208l-4.164,2.4v-2.219l4.164-2.4Z" fill="#cff"/>
+                <path id="Pfad_167" data-name="Pfad 167" d="M524.034,209.848l-5.856,3.381v-2.22l5.856-3.381Z" fill="#cff"/>
+                <path id="Pfad_168" data-name="Pfad 168" d="M532.631,204.884,530.7,206v-2.22l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_169" data-name="Pfad 169" d="M528.326,207.37l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_75" data-name="Gruppe 75">
+                <path id="Pfad_170" data-name="Pfad 170" d="M542.436,203.693l-9.322,5.382v-2.22l9.322-5.382Z" fill="#cff"/>
+                <path id="Pfad_171" data-name="Pfad 171" d="M522.315,215.31l-4.137,2.388v-2.219l4.137-2.389Z" fill="#cff"/>
+                <path id="Pfad_172" data-name="Pfad 172" d="M530.912,210.347l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_173" data-name="Pfad 173" d="M526.606,212.833l-1.934,1.117V211.73l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_80" data-name="Gruppe 80">
+              <g id="Gruppe_77" data-name="Gruppe 77">
+                <path id="Pfad_174" data-name="Pfad 174" d="M523.081,223.9l-5,2.885v-2.219l5-2.885Z" fill="#cff"/>
+                <path id="Pfad_175" data-name="Pfad 175" d="M531.946,218.786l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_176" data-name="Pfad 176" d="M538.931,214.753l-4.03,2.327V214.86l4.03-2.327Z" fill="#cff"/>
+                <path id="Pfad_177" data-name="Pfad 177" d="M527.641,221.271l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_78" data-name="Gruppe 78">
+                <path id="Pfad_178" data-name="Pfad 178" d="M544.062,216.26l-6.743,3.893v-2.219l6.743-3.893Z" fill="#cff"/>
+                <path id="Pfad_179" data-name="Pfad 179" d="M526.519,226.389l-8.435,4.87v-2.22l8.435-4.87Z" fill="#cff"/>
+                <path id="Pfad_180" data-name="Pfad 180" d="M535.116,221.425l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_181" data-name="Pfad 181" d="M530.81,223.911l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_79" data-name="Gruppe 79">
+                <path id="Pfad_182" data-name="Pfad 182" d="M543.2,221.227l-7.6,4.389V223.4l7.6-4.389Z" fill="#cff"/>
+                <path id="Pfad_183" data-name="Pfad 183" d="M524.8,231.851l-6.716,3.877v-2.219l6.716-3.878Z" fill="#cff"/>
+                <path id="Pfad_184" data-name="Pfad 184" d="M533.4,226.888,531.462,228v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_185" data-name="Pfad 185" d="M529.091,229.374l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_82" data-name="Gruppe 82">
+            <path id="Pfad_186" data-name="Pfad 186" d="M506.8,303.055h-1.308V200.515l-89.349-51.586.678-1.119L506.8,199.76Z" fill="url(#linear-gradient-8)"/>
+          </g>
+          <rect id="Rechteck_5" data-name="Rechteck 5" width="103.562" height="1.308" transform="translate(505.819 199.567) rotate(-29.995)" fill="#394cf6"/>
+        </g>
+      </g>
+      <g id="Gruppe_104" data-name="Gruppe 104">
+        <g id="Gruppe_103" data-name="Gruppe 103">
+          <g id="Gruppe_86" data-name="Gruppe 86">
+            <g id="Gruppe_85" data-name="Gruppe 85" opacity="0.79">
+              <path id="Pfad_187" data-name="Pfad 187" d="M293.039,660.387V557.469l-89.255-51.531-.76.326V608.107l.592,1.025,88.775,51.254Z" fill="url(#linear-gradient)"/>
+              <path id="Pfad_188" data-name="Pfad 188" d="M382.439,505.564l.108.2-89.363,51.744-89.517-51.36.046-1.01,88.878-51.314h1.185L382.4,505.122Z" fill="url(#linear-gradient-2)"/>
+              <path id="Pfad_189" data-name="Pfad 189" d="M293.039,557.469V660.387h.649l88.775-51.254.592-1.025V506.256l-.342-.4-.135-.086Z" fill="url(#linear-gradient-3)"/>
+            </g>
+          </g>
+          <g id="Gruppe_88" data-name="Gruppe 88" opacity="0.7">
+            <g id="Gruppe_87" data-name="Gruppe 87">
+              <path id="Pfad_190" data-name="Pfad 190" d="M293.6,641.76V557.4l-73.158-42.237-.623-.2v83.941l.485.84,72.764,42.01Z" fill="url(#linear-gradient-4)"/>
+              <path id="Pfad_191" data-name="Pfad 191" d="M366.872,514.86l.088.167-73.246,42.412-73.372-42.1.038-.828,72.848-42.059h.971L366.841,514.5Z" fill="url(#linear-gradient-5)"/>
+              <path id="Pfad_192" data-name="Pfad 192" d="M293.6,557.4V641.76h.532l72.764-42.01.485-.84v-84.1l-.257.021-.134.205Z" fill="url(#linear-gradient-6)"/>
+            </g>
+            <path id="Pfad_193" data-name="Pfad 193" d="M293.714,472.93l72.345,41.876-72.346,41.878L220.957,514.94Zm0-.756-73.848,42.64a.145.145,0,0,0-.073.127.148.148,0,0,0,.073.128l73.848,42.369,73.65-42.632Z" fill="url(#linear-gradient-7)"/>
+          </g>
+          <g id="Gruppe_101" data-name="Gruppe 101" style="mix-blend-mode: overlay;isolation: isolate">
+            <g id="Gruppe_92" data-name="Gruppe 92">
+              <g id="Gruppe_89" data-name="Gruppe 89">
+                <path id="Pfad_194" data-name="Pfad 194" d="M310.73,599.521l-5.68,3.279v-2.153l5.68-3.279Z" fill="#cff"/>
+                <path id="Pfad_195" data-name="Pfad 195" d="M319.328,594.557l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_196" data-name="Pfad 196" d="M326.936,590.164l-4.742,2.738v-2.153l4.742-2.738Z" fill="#cff"/>
+                <path id="Pfad_197" data-name="Pfad 197" d="M315.152,596.967l-1.876,1.083V595.9l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_90" data-name="Gruppe 90">
+                <path id="Pfad_198" data-name="Pfad 198" d="M322.741,596.921l-3.2,1.85v-2.153l3.2-1.85Z" fill="#cff"/>
+                <path id="Pfad_199" data-name="Pfad 199" d="M309.063,604.819l-4.013,2.317v-2.153l4.013-2.317Z" fill="#cff"/>
+                <path id="Pfad_200" data-name="Pfad 200" d="M317.4,600l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_201" data-name="Pfad 201" d="M313.224,602.416l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_91" data-name="Gruppe 91">
+                <path id="Pfad_202" data-name="Pfad 202" d="M327.744,598.368l-4.872,2.813v-2.153l4.872-2.813Z" fill="#cff"/>
+                <path id="Pfad_203" data-name="Pfad 203" d="M312.4,607.228l-7.348,4.242v-2.153l7.348-4.242Z" fill="#cff"/>
+                <path id="Pfad_204" data-name="Pfad 204" d="M320.735,602.415l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+                <path id="Pfad_205" data-name="Pfad 205" d="M316.56,604.826l-1.876,1.083v-2.153l1.876-1.083Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_96" data-name="Gruppe 96">
+              <g id="Gruppe_93" data-name="Gruppe 93">
+                <path id="Pfad_206" data-name="Pfad 206" d="M308.346,564.2l-3.277,1.892v-2.22l3.277-1.892Z" fill="#cff"/>
+                <path id="Pfad_207" data-name="Pfad 207" d="M317.211,559.08l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_208" data-name="Pfad 208" d="M326.775,553.558l-6.608,3.815v-2.219l6.608-3.815Z" fill="#cff"/>
+                <path id="Pfad_209" data-name="Pfad 209" d="M312.906,561.566l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_94" data-name="Gruppe 94">
+                <path id="Pfad_210" data-name="Pfad 210" d="M325.888,558.54l-4.164,2.4v-2.22l4.164-2.4Z" fill="#cff"/>
+                <path id="Pfad_211" data-name="Pfad 211" d="M310.925,567.179l-5.856,3.381v-2.219l5.856-3.381Z" fill="#cff"/>
+                <path id="Pfad_212" data-name="Pfad 212" d="M319.521,562.216l-1.934,1.117v-2.219L319.521,560Z" fill="#cff"/>
+                <path id="Pfad_213" data-name="Pfad 213" d="M315.216,564.7l-1.934,1.117V563.6l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_95" data-name="Gruppe 95">
+                <path id="Pfad_214" data-name="Pfad 214" d="M329.327,561.025,320,566.407v-2.22l9.322-5.382Z" fill="#cff"/>
+                <path id="Pfad_215" data-name="Pfad 215" d="M309.206,572.642l-4.137,2.388v-2.219l4.137-2.388Z" fill="#cff"/>
+                <path id="Pfad_216" data-name="Pfad 216" d="M317.8,567.678l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_217" data-name="Pfad 217" d="M313.5,570.164l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+            <g id="Gruppe_100" data-name="Gruppe 100">
+              <g id="Gruppe_97" data-name="Gruppe 97">
+                <path id="Pfad_218" data-name="Pfad 218" d="M309.971,581.236l-5,2.885V581.9l5-2.885Z" fill="#cff"/>
+                <path id="Pfad_219" data-name="Pfad 219" d="M318.836,576.117l-1.934,1.117v-2.219l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_220" data-name="Pfad 220" d="M325.821,572.085l-4.03,2.327v-2.22l4.03-2.326Z" fill="#cff"/>
+                <path id="Pfad_221" data-name="Pfad 221" d="M314.531,578.6,312.6,579.72V577.5l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_98" data-name="Gruppe 98">
+                <path id="Pfad_222" data-name="Pfad 222" d="M330.952,573.592l-6.743,3.893v-2.22l6.743-3.893Z" fill="#cff"/>
+                <path id="Pfad_223" data-name="Pfad 223" d="M313.41,583.72l-8.435,4.87v-2.219l8.435-4.87Z" fill="#cff"/>
+                <path id="Pfad_224" data-name="Pfad 224" d="M322.006,578.757l-1.934,1.117v-2.22l1.934-1.117Z" fill="#cff"/>
+                <path id="Pfad_225" data-name="Pfad 225" d="M317.7,581.243l-1.934,1.117V580.14l1.934-1.117Z" fill="#cff"/>
+              </g>
+              <g id="Gruppe_99" data-name="Gruppe 99">
+                <path id="Pfad_226" data-name="Pfad 226" d="M330.092,578.558l-7.6,4.389v-2.219l7.6-4.389Z" fill="#cff"/>
+                <path id="Pfad_227" data-name="Pfad 227" d="M311.69,589.183l-6.716,3.878v-2.22l6.716-3.878Z" fill="#cff"/>
+                <path id="Pfad_228" data-name="Pfad 228" d="M320.287,584.219l-1.934,1.117v-2.219L320.287,582Z" fill="#cff"/>
+                <path id="Pfad_229" data-name="Pfad 229" d="M315.982,586.705l-1.934,1.117V585.6l1.934-1.117Z" fill="#cff"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_102" data-name="Gruppe 102">
+            <path id="Pfad_230" data-name="Pfad 230" d="M293.693,660.387h-1.308V557.846L203.036,506.26l.678-1.119,89.979,51.95Z" fill="url(#linear-gradient-8)"/>
+          </g>
+          <rect id="Rechteck_6" data-name="Rechteck 6" width="103.562" height="1.308" transform="translate(292.709 556.898) rotate(-29.993)" fill="#394cf6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
